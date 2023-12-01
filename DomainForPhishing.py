@@ -7,20 +7,21 @@ def generate_variations(domain):
     variations = set()
 
     visually_similar = {
-    'l': ['1', 'i'],
-    'i': ['1', 'l'],
+    'l': ['1', 'i', 'll'],
+    'i': ['1', 'l', 'ii'],
     'o': ['0'],
     'j': ['i'],
-    'e': ['3'],
+    'e': ['3', 'ee'],
     'w': ['vv'],
     'ae': ['æ'],
     's': ['5'],
     'g': ['9'],
     'z': ['2'],
-    't': ['7'],
-    'b': ['6', '8'],
-    'a': ['4'],
-    'n': ['m']
+    't': ['7', 'tt'],
+    'b': ['6', '8', 'bb'],
+    'a': ['4', 'aa'],
+    'n': ['m'],
+    'a': ['aa']
 }
 
 # Gera os domínios sem alterar os TLDs
