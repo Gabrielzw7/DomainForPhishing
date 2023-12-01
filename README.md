@@ -9,7 +9,7 @@
 </div>
 <div>
   <h1>Modo de uso</h1>
-  <p>Para utilizar a ferramenta, utilize python3 dfp.py</p>
+  <p>Para usar a ferramenta, utilize python3 DomainForPhishing.py</p>
   <img src="https://github.com/Gabrielzw7/DomainForPhishing/assets/75531871/8fa89f54-4244-47cc-9783-51d12e744f86">
 </div>
 <div>
